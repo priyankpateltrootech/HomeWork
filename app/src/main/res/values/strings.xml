@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="error_enter_email">Please enter email</string>
+    <string name="error_valid_email">Please enter valid email</string>
+    <string name="error_enter_password">Please enter password</string>
+    <string name="error_valid_password_short">Password length can\'t be less than 8 characters</string>
+    <string name="error_valid_password_long">Password length can\'t be longer than 15 characters</string>
+    <string name="error_enter_confirm_password">Please enter confirm password</string>
+    <string name="error_valid_password_confirm_password_match">Password and confirm password do not match</string>
+    <string name="request_timed_out">Request timed out!</string>
+</resources>
